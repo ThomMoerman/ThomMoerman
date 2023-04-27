@@ -34,6 +34,6 @@ As a junior, I'm always learning and looking forward to working on exciting proj
 
 ## 📈 GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/ThomMoerman)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ThomMoerman&show_icons=true&theme=dark&bg_color=000000)](https://github.com/ThomMoerman)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/ThomMoerman)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomMoerman&layout=compact&show_icons=true&theme=dark&bg_color=000000)](https://github.com/ThomMoerman)
