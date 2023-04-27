@@ -1,6 +1,9 @@
-### Hi there 👋
+<h3 align="center">
+Hi there 👋, I'm Thomas.
+</h3>
+
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Junior Web Developer 💻
 </h2> 
 <!--
 **ThomMoerman/ThomMoerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
