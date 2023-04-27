@@ -6,7 +6,7 @@ Hi there 👋, I'm Thomas.
 I'm a Junior Web Developer 💻
 </h2> 
 
-I particularly enjoy creating interactive websites and am passionate about helping people solve problems through technology.
+I particularly enjoy creating interactive websites and am passionate about helping people solve problems through technology. <br>
 As a junior, I'm always learning and looking forward to working on exciting projects with motivated teams.
 
 ### 🤝 Connect with me:
