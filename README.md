@@ -26,9 +26,11 @@ As a junior, I'm always learning and looking forward to working on exciting proj
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white)
 <br>
+<br>
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B)
 ![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=SASS&logoColor=white&color=pink)
+<br>
 <br>
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
