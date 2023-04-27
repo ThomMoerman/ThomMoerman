@@ -1,3 +1,5 @@
+![from_assets](https://github.com/ThomMoerman/ThomMoerman/main/your-profile-picture.png)
+
 <h3 align="center">
 Hi there 👋, I'm Thomas.
 </h3>
