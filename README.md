@@ -24,11 +24,11 @@ As a junior, I'm always learning and looking forward to working on exciting proj
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-MySql-informational?style=flat&logo=mysql&logoColor=green&color=green)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=orange&color=orange)
-![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=777BB3&color=777BB3)
 <br>
 <br>
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&logoColor=1572B&color=1572B)
 ![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=SASS&logoColor=pink&color=pink)
 <br>
 <br>
