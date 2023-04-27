@@ -11,13 +11,13 @@ I'm a Junior Web Developer 💻
 I particularly enjoy creating interactive websites and am passionate about helping people solve problems through technology. <br>
 As a junior, I'm always learning and looking forward to working on exciting projects with motivated teams.
 
-<div align="center">
+<p align="center">
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/thomas-moerman-30a09126b/"><img align="left" src="https://raw.githubusercontent.com/ThomMoerman/ThomMoerman/main/linkedin.png" alt="Thomas Moerman | LinkedIn" width="40px"/></a>
 <a href="https://https://www.instagram.com/thommoerman7/"><img align="left" src="https://raw.githubusercontent.com/ThomMoerman/ThomMoerman/main/Instagram.png" alt="Thomas Moerman | Instagram" width="40px"/></a>
 <a href="https://www.facebook.com/thomas.moerman.9/"><img align="left" src="https://raw.githubusercontent.com/ThomMoerman/ThomMoerman/main/facebook.png" alt="Thomas Moerman | Facebook" width="40px"/></a>
-</div>
+</p>
 <br>
 <br>
 
