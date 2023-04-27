@@ -15,7 +15,7 @@ As a junior, I'm always learning and looking forward to working on exciting proj
 <a href="https://https://www.instagram.com/thommoerman7/"><img align="left" src="https://raw.githubusercontent.com/ThomMoerman/ThomMoerman/main/Instagram.png" alt="Thomas Moerman | Instagram" width="40px"/></a>
 <a href="https://www.facebook.com/thomas.moerman.9/"><img align="left" src="https://raw.githubusercontent.com/ThomMoerman/ThomMoerman/main/facebook.png" alt="Thomas Moerman | Facebook" width="40px"/></a>
 
-
+<br>
 
 ## 💼 Technical Skills
 
@@ -34,7 +34,6 @@ As a junior, I'm always learning and looking forward to working on exciting proj
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
-<br>
 <br>
 
 ## 📈 GitHub Stats
