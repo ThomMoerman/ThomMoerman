@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/ThomMoerman/ThomMoerman/main/Blue and White Modern Tech Web Developer Twitter Header.png)
+![](https://raw.githubusercontent.com/ThomMoerman/ThomMoerman/main/Banner.png)
 
 <h3 align="center">
 Hi there 👋, I'm Thomas.
