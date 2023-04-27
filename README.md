@@ -16,7 +16,6 @@ As a junior, I'm always learning and looking forward to working on exciting proj
 <a href="https://www.facebook.com/thomas.moerman.9/"><img align="left" src="https://raw.githubusercontent.com/ThomMoerman/ThomMoerman/main/facebook.png" alt="Thomas Moerman | Facebook" width="40px"/></a>
 
 <br>
-<br>
 
 ## 💼 Technical Skills
 
