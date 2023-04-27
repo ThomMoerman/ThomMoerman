@@ -1,4 +1,4 @@
-![from_assets](https://github.com/ThomMoerman/ThomMoerman/main/your-profile-picture.png)
+![from_assets](https://github.com/ThomMoerman/ThomMoerman/main/Blue and White Modern Tech Web Developer Twitter Header.png)
 
 <h3 align="center">
 Hi there 👋, I'm Thomas.
