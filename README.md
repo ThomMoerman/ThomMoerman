@@ -14,7 +14,6 @@ As a junior, I'm always learning and looking forward to working on exciting proj
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/thomas-moerman-30a09126b/"><img align="left" src="https://raw.githubusercontent.com/ThomMoerman/ThomMoerman/main/images/linkedin.png" alt="Thomas Moerman | LinkedIn" width="40px"/></a>
-<a href="https://www.instagram.com/thommoerman7/"><img align="left" src="https://raw.githubusercontent.com/ThomMoerman/ThomMoerman/main/images/Instagram.png" alt="Thomas Moerman | Instagram" width="40px"/></a>
 <a href="https://www.facebook.com/thomas.moerman.9/"><img align="left" src="https://raw.githubusercontent.com/ThomMoerman/ThomMoerman/main/images/facebook.png" alt="Thomas Moerman | Facebook" width="40px"/></a>
 
 <br>
